@@ -1,5 +1,6 @@
 using API.Errors;
 using Infrastructure.Data.Migrations;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace API.Controllers
